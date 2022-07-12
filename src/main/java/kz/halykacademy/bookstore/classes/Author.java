@@ -1,4 +1,4 @@
-package kz.halykacademy.bookstore.model;
+package kz.halykacademy.bookstore.classes;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
